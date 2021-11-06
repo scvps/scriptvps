@@ -1,0 +1,5 @@
+#!/bin/bash
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+*.java linguist-detectable=false
+*.py linguist-detectable=false

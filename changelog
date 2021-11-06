@@ -1,0 +1,87 @@
+# 06-11-2021
+* fix bug (3.0)
+* fix port squid (3.0)
+* update core to latest (v2ray, xray)
+** Bot Update API (3.0)
+
+# 26-09-2021
+* fix little bug(2.6)
+
+# 02-09-2021
+* fix server (2.5)
+
+# 23-08-2021
+* fix speed limit (2.4)
+* enable/disable torrent (2.4)
+* add cleaner ram (2.4)
+* add change port OHP (2.4)
+* add vless tcp xtls (direct/origin) (2.4)
+* rewrite menu (2.4)
+* rewrite restart all service (2.4)
+
+# 13-08-2021
+* added OHP SSH (2.3)
+* added OHP Dropbear (2.3)
+* added OHP OpenVPN (2.3)
+* change payload ssh ws (2.3)
+* update key secret script (2.3)
+
+# 09-08-2021
+* -
+
+# 08-08-2021
+* backup & restore auto detect data in database (2.1)
+* fix renew cert (2.1)
+* added ssh ssl websocket (2.1)
+
+# 30-07-2021
+* update core v2ray (2.0)
+* update core xray (2.0)
+* update core ipsec (2.0)
+* update core shadowsocks (2.0)
+* vmess vless trojan now same port with vmess (2.0)
+* vless http now same port with vmess http (2.0)
+* added bot panel telegram (New) (2.0)
+* added restart all service (New) (2.0)
+* support 0p0k only for my country (2.0)
+  # vmess
+  # vless
+  # trgo
+* fix bug on google cloud platform (2.0)
+* path vmess vless http now same with https
+
+# 11-07-2021
+* Backup new method (1.3.7)
+* fix delete vmess (1.3.7)
+* fix user cek vmess (1.3.7)
+* ssh expired acc now auto delete (1.3.7)
+* log cleaner now every 6 hours (1.3.7)
+
+# 09-07-2021
+* Fix Bug Delete User (1.3.6)
+* Fix Bug Renew Acc (1.3.6)
+
+# 06-07-2021
+* Fix Trojan-Go TLS+WS (1.3.5)
+
+# 04-07-2021
+* Added Trial Menu (1.3.4)
+* Fix Info menu Limited Api (1.3.4)
+* Renew Cert Will Auto Detect Port (1.3.4)
+
+# 03-07-2021
+* Added Change Port DO WS (1.3.1)
+* Fix typo (1.3.2)
+* Bug fixed (1.3.3)
+* SSH websocket very stable & high speed now (1.3.3)
+
+# 02-07-2021
+* Fix Bug Trojan (1.2.0)
+* Create SSH New UI(1.2.1)
+* Added Log Created User(1.2.1)
+
+# 01-07-2021
+* Bug fixed (1.1.0)
+* Added Add-IP for seller (1.1.2)
+* Fix system menu not added files(1.1.2)
+* Fix typo function(1.1.3)
