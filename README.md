@@ -1,7 +1,5 @@
 # FULL AUTO
 
-Contact : Kenny | t.me/ApaItuLeee
-
 Channel : https://t.me/scvps
 
 you need cloudflare domain pointing to your ip vps [important]
